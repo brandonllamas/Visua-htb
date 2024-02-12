@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dT5vrYy20MTazyLxxRLKi7wNqoQvMxov+UBmVUEVH1JaC32Us7zls4haqlmEaHObsvgNOp00HH8EUUC2ALpjxA==",
+  "success": true,
+  "projectFilePath": "/home/darkmoon/Desktop/machines/visual/fakedotnet/fakedotnet.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
